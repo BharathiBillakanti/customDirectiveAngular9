@@ -1,1 +1,9 @@
-/* You can add global styles to this file, and also import other style files */
+.widget{
+    display: inline-block;
+    padding: 20px;
+    border: 1px solid blue;
+    color: blue;
+    background-color: gold;
+    font-weight: 600;
+    margin: 10px;
+}
